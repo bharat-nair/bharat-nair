@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-![Alt Text](https://www.storybench.org/wp-content/uploads/2015/05/NYAN_CAT.gif)
+![Alt Text](https://64.media.tumblr.com/8210fd413c5ce209678ef82d65731443/tumblr_mjphnqLpNy1s5jjtzo1_400.gifv)
 <!--
 **bharat-nair/bharat-nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
