@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-![Alt Text](https://www.storybench.org/wp-content/uploads/2015/05/NYAN_CAT.gif)
+Web Developer
 <!--
 **bharat-nair/bharat-nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
